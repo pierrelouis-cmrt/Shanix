@@ -224,8 +224,8 @@ section {
 }
 
 .button-1 {
-  padding: 1em;
-  border-radius: 25px;
+  padding: 1.2em 1em 1em 1em;
+  border-radius: 15px;
   background: var(--color-primary);
   text-align: center;
   text-decoration: none;
@@ -242,8 +242,8 @@ section {
 }
 
 .button-2 {
-  padding: 1em;
-  border-radius: 25px;
+  padding: 1.2em 1em 1em 1em;
+  border-radius: 15px;
   background: var(--color-secondary);
   text-align: center;
   text-decoration: none;
